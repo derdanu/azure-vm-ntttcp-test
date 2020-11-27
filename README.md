@@ -4,7 +4,7 @@ Testing Bandwith of different Azure VM SKUs
 
 ## Usage 
 
-Terrform apply and run both command show in the terraform output afterwards. 
+Terraform apply and run both command show in the terraform output afterwards. 
 
 First the Receiver, second the Sender command in different terminals. 
 
