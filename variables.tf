@@ -4,7 +4,7 @@ variable "resource_group_name" {
 }
 
 variable "resource_prefix" {
-  default = "nttcp"
+  default = "ntttcp"
 }
 
 variable "location" {
