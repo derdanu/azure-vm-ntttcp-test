@@ -1,0 +1,9 @@
+#cloud-config
+package_upgrade: true
+packages:
+  - gcc
+  - build-essential
+runcmd:
+  - git clone https://github.com/Microsoft/ntttcp-for-linux /mnt/ntttcp-for-linux
+  - cd /mnt/ntttcp-for-linux/src
+  - make && make install
