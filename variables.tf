@@ -14,7 +14,7 @@ variable "location" {
 
 variable "vm_size" {
   description = "Vm Size"
-  default     = "Standard_DS4_v3"
+  default     = "Standard_D4s_v3"
 
 }
 
