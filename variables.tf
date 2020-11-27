@@ -1,6 +1,6 @@
 variable "resource_group_name" {
   description = "Resource Group Name"
-  default     = "azure-vm-nttcp-test-rg"
+  default     = "azure-vm-ntttcp-test-rg"
 }
 
 variable "resource_prefix" {
