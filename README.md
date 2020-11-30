@@ -20,3 +20,7 @@ bash: /usr/local/bin/ntttcp: No such file or directory
 `` 
 
 Please try again later. Installing the Build Tools and compiling the sources may take a while. 
+
+## Documentation 
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-bandwidth-testing
